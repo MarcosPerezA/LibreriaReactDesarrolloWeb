@@ -1,0 +1,28 @@
+/* src/DataFetcher/style.css */
+.data-fetcher {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .data-fetcher h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .data-fetcher ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .data-fetcher li {
+    background: #f8f9fa;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .data-fetcher p {
+    font-style: italic;
+    color: #666;
+  }
+  
